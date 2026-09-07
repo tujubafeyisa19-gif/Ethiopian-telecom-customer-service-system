@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 #include using namespace std; 
 const int MAX_REGIONS = 12; 
 const int MAX_CITIES = 100;
